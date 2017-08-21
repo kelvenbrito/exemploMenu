@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Actions</string>
+
+    <string name="mnu_camera">Câmera</string>
+    <string name="mnu_agenda">Agenda</string>
+    <string name="mnu_call">Ligar</string>
+    <string name="mnu_rotate">Rotacionar</string>
+</resources>

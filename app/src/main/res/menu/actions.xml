@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/act_camera"
+        android:title="@string/mnu_camera"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/act_agenda"
+        android:title="@string/mnu_agenda"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:showAsAction="ifRoom|withText"/>
+
+    <item android:id="@+id/act_call"
+        android:title="@string/mnu_call"
+        android:icon="@android:drawable/ic_menu_call"
+        android:showAsAction="ifRoom|withText" />
+
+    <item android:id="@+id/act_rotate"
+        android:title="@string/mnu_rotate"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:showAsAction="ifRoom|withText" />
+</menu>
